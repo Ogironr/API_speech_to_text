@@ -2,7 +2,7 @@
 
 # Speech to text + Comprensión de texto
 
-Aplicación hecho en Streamlit para generar insights con los información de audios.
+Aplicación hecho en Streamlit para generar insights con la información de audios.
 
 ## Instalación de requirements
 
