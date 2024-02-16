@@ -23,7 +23,4 @@ Se utiliza speech_recognition + langchain.
 
 Capturas de la aplicación.
 
-<img width="300px" src="https://github.com/Ogironr/API_speech_to_text/blob/main/images/transcribir.JPG?raw=true"></img>
-
-
-<img width="300px" src="https://github.com/Ogironr/API_speech_to_text/blob/main/images/resumen.JPG?raw=true"></img>
+<img width="300px" src="https://github.com/Ogironr/API_speech_to_text/blob/main/images/app.JPG?raw=true"></img>
