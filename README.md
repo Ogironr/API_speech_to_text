@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+[![linkedin-url][linkedin-shield]][linkedin-url]
 
 
 # Speech to text + Comprensión de texto
@@ -24,3 +26,9 @@ Se utiliza speech_recognition + langchain.
 Capturas de la aplicación.
 
 <img width="300px" src="https://github.com/Ogironr/API_speech_to_text/blob/main/images/app.JPG?raw=true"></img>
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[linkedin-url]: https://www.linkedin.com/in/ogironr/
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
